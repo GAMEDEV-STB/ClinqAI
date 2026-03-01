@@ -2,6 +2,8 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
+Add your API Key in env file and rename it as env.local to run locally
+
 First, run the development server:
 
 ```bash
