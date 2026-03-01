@@ -9,6 +9,9 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@deepgram/sdk": "^4.11.3",
+    "@google/generative-ai": "^0.24.1",
+    "lucide-react": "^0.568.0",
     "next": "16.1.6",
     "react": "19.2.3",
     "react-dom": "19.2.3"
