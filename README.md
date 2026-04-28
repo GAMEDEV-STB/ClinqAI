@@ -1,6 +1,7 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
+This is AI prescription writer, it listens to doctor - Patient conversation and generates the prescription
 
 Add your API Key in env file and rename it as env.local to run locally
 
